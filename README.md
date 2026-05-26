@@ -72,4 +72,4 @@ The generated closed-loop control figure is written to `figures/`.
 
 ## Notes for Review
 
-This repository is prepared for double-anonymous review. Author names, institutional paths, and local machine paths have been removed from the release files. After review, the repository URL and license information can be updated for the public version.
+This repository is prepared for double-anonymous review. 
